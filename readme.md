@@ -6,8 +6,8 @@ This project create a simple validate email function. You can see this project i
 #### Usage (email/validateEmail.js)
 Exemple of call this function:
 
-		- Insert <script src="email/validateEmail.js"></script> in your index.html file
-    - Now you can call validateEmail('user_email@msn.com')
+		Insert <script src="email/validateEmail.js"></script> in your index.html file
+    Now you can call validateEmail('user_email@msn.com')
 
 #### Usage (email/validateEmailES6.js)
 Exemple of call this function:
@@ -18,6 +18,6 @@ Exemple of call this function:
 #### Usage (email/validateEmail_clr.js)
 Exemple of call this function:
 
-		- Insert <script src="email/validateEmail_clr.js"></script> in your index.html file
-    - Now you can call validateEmail.render('user_email@msn.com')
+		Insert <script src="email/validateEmail_clr.js"></script> in your index.html file
+    Now you can call validateEmail.render('user_email@msn.com')
 
