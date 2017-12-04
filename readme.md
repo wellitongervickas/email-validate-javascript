@@ -1,4 +1,4 @@
-# Custom Functions
+# Validade Email Javascript
 
 ### Validate Email Function
 This project create a simple validate email function. You can see this project in "email" folder.
