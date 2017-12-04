@@ -21,3 +21,7 @@ Exemple of call this function:
 	Insert <script src="email/validateEmail_clr.js"></script> in your index.html file
 	Now you can call validateEmail.render('user_email@msn.com')
 
+#### Return Exemple 
+
+	var emailToTest = validateEmail.render('user_email@msn.com')
+	console.log(emailToTest) // Return true or false
